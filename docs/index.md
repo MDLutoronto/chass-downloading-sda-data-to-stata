@@ -3,6 +3,9 @@ title: "Downloading SDA data from CHASS into STATA"
 layout: "home"
 description: "This tutorial demonstrates how to load SDA data for use in Stata."
 created_date: 2017-05-05
+maintainer:
+    - name: Leanne Trimble
+      link: https://library.utoronto.ca/staff/leanne-trimble
 permalink: "/"  #! Remove this if not the homepage
 ---
 
