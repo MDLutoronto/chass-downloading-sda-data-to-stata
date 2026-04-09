@@ -96,7 +96,3 @@ To save the data set in a different file format such as Excel or CSV, go to the 
  
 
 If you need assistance, fill out the [support request form](https://mdl.library.utoronto.ca/about/contact-form).
-
- 
-
-Technique: [Extracting data](https://mdl.library.utoronto.ca/technique/extracting-data) | Tools: [Stata](https://mdl.library.utoronto.ca/tools/stata)
